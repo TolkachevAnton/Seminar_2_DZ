@@ -7,4 +7,8 @@ Console.WriteLine("Введите число");
 string str1 = Console.ReadLine();
 int num1 = int.Parse(str1);
 
+Console.WriteLine("Случайное число: " + num1);
+int first = num1 % 100; 
+int second = first / 10; 
 
+Console.WriteLine("Вторая цифра числа: " + second);
