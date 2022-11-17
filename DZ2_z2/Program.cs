@@ -4,11 +4,25 @@
 // 32679 -> 6
 
 Console.WriteLine("Введите число");
-string str1 = Console.ReadLine();
-int num1 = int.Parse(str1);
+string str = Console.ReadLine();
+double N = int.Parse(str);
 
-Console.WriteLine("Случайное число: " + num1);
-int first = num1 % 100; 
-int second = first / 10; 
+if(N.Length > 2)
+{
+    Console.WriteLine("Третья цифра числа "+ N[2]);
+}
+else
+{
+    Console.WriteLine("Третьей цифры нет");
+}
 
-Console.WriteLine("Вторая цифра числа: " + second);
+// Console.Write("Введи число: ");
+// int anyNumber = Convert.ToInt32(Console.ReadLine());
+// string anyNumberText = Convert.ToString(anyNumber);
+// if (anyNumberText.Length > 2)
+// {
+//   Console.WriteLine("третья цифра -> " + anyNumberText[2]);
+// }
+// else {
+//   Console.WriteLine("-> третьей цифры нет");
+// }
