@@ -1,0 +1,15 @@
+E:\Антон учёба\Seminar_2_dz\DZ8_2\bin\Debug\net6.0\DZ8_2.exe
+E:\Антон учёба\Seminar_2_dz\DZ8_2\bin\Debug\net6.0\DZ8_2.deps.json
+E:\Антон учёба\Seminar_2_dz\DZ8_2\bin\Debug\net6.0\DZ8_2.runtimeconfig.json
+E:\Антон учёба\Seminar_2_dz\DZ8_2\bin\Debug\net6.0\DZ8_2.dll
+E:\Антон учёба\Seminar_2_dz\DZ8_2\bin\Debug\net6.0\DZ8_2.pdb
+E:\Антон учёба\Seminar_2_dz\DZ8_2\obj\Debug\net6.0\DZ8_2.csproj.AssemblyReference.cache
+E:\Антон учёба\Seminar_2_dz\DZ8_2\obj\Debug\net6.0\DZ8_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Антон учёба\Seminar_2_dz\DZ8_2\obj\Debug\net6.0\DZ8_2.AssemblyInfoInputs.cache
+E:\Антон учёба\Seminar_2_dz\DZ8_2\obj\Debug\net6.0\DZ8_2.AssemblyInfo.cs
+E:\Антон учёба\Seminar_2_dz\DZ8_2\obj\Debug\net6.0\DZ8_2.csproj.CoreCompileInputs.cache
+E:\Антон учёба\Seminar_2_dz\DZ8_2\obj\Debug\net6.0\DZ8_2.dll
+E:\Антон учёба\Seminar_2_dz\DZ8_2\obj\Debug\net6.0\refint\DZ8_2.dll
+E:\Антон учёба\Seminar_2_dz\DZ8_2\obj\Debug\net6.0\DZ8_2.pdb
+E:\Антон учёба\Seminar_2_dz\DZ8_2\obj\Debug\net6.0\DZ8_2.genruntimeconfig.cache
+E:\Антон учёба\Seminar_2_dz\DZ8_2\obj\Debug\net6.0\ref\DZ8_2.dll
