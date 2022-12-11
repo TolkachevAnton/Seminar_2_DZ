@@ -1,0 +1,15 @@
+E:\Антон учёба\Seminar_2_dz\DZ8_1\bin\Debug\net6.0\DZ8_1.exe
+E:\Антон учёба\Seminar_2_dz\DZ8_1\bin\Debug\net6.0\DZ8_1.deps.json
+E:\Антон учёба\Seminar_2_dz\DZ8_1\bin\Debug\net6.0\DZ8_1.runtimeconfig.json
+E:\Антон учёба\Seminar_2_dz\DZ8_1\bin\Debug\net6.0\DZ8_1.dll
+E:\Антон учёба\Seminar_2_dz\DZ8_1\bin\Debug\net6.0\DZ8_1.pdb
+E:\Антон учёба\Seminar_2_dz\DZ8_1\obj\Debug\net6.0\DZ8_1.csproj.AssemblyReference.cache
+E:\Антон учёба\Seminar_2_dz\DZ8_1\obj\Debug\net6.0\DZ8_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Антон учёба\Seminar_2_dz\DZ8_1\obj\Debug\net6.0\DZ8_1.AssemblyInfoInputs.cache
+E:\Антон учёба\Seminar_2_dz\DZ8_1\obj\Debug\net6.0\DZ8_1.AssemblyInfo.cs
+E:\Антон учёба\Seminar_2_dz\DZ8_1\obj\Debug\net6.0\DZ8_1.csproj.CoreCompileInputs.cache
+E:\Антон учёба\Seminar_2_dz\DZ8_1\obj\Debug\net6.0\DZ8_1.dll
+E:\Антон учёба\Seminar_2_dz\DZ8_1\obj\Debug\net6.0\refint\DZ8_1.dll
+E:\Антон учёба\Seminar_2_dz\DZ8_1\obj\Debug\net6.0\DZ8_1.pdb
+E:\Антон учёба\Seminar_2_dz\DZ8_1\obj\Debug\net6.0\DZ8_1.genruntimeconfig.cache
+E:\Антон учёба\Seminar_2_dz\DZ8_1\obj\Debug\net6.0\ref\DZ8_1.dll
